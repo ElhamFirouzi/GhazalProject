@@ -210,7 +210,8 @@ class Login extends React.Component {
 
                     />
 
-                </View>
+                </View>  
+                {/* ffff */}
 
                 <View style={{ flexDirection: 'row-reverse', paddingTop: 20, }}>
                 {!this.state.load && (
